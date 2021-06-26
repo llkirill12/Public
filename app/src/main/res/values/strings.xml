@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteKotlin_Lesson17</string>
+
+    <!-- hint - текст подсказка в текствовом поле для ввода, этот для edTitle -->
+    <string name="ed_title_hint">Заголовок</string>
+
+    <!-- hint - текст подсказка в текствовом поле для ввода, этот для edDesc -->
+    <string name="ed_desc_hint">Описание</string>
+</resources>
